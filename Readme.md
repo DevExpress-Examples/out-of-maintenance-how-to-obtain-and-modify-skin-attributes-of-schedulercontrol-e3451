@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [SkinCustomizationForm.cs](./CS/SkinCustomizationForm.cs) (VB: [SkinCustomizationForm.vb](./VB/SkinCustomizationForm.vb))
+<!-- default file list end -->
 # How to obtain and modify skin attributes of SchedulerControl
 
 
